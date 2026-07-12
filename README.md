@@ -2,9 +2,9 @@
 
 **Forensic Windows endpoint attestation.** We build tooling that produces tamper-evident, independently-verifiable evidence that a Windows system is in the state it claims to be.
 
-- 🔍 **[ZQM Attestation Toolkit](https://github.com/ZQM-Computing/zqm-attestation-toolkit)** — CMS-signed, SHA256-anchored machine-health & AI-agent integrity reports (TPM / BitLocker / DFIR). The core suite.
-- 📚 **[Awesome Windows Attestation](https://github.com/ZQM-Computing/awesome-windows-attestation)** — curated list of the Windows attestation, TPM/CMS-signing, DFIR & post-quantum readiness ecosystem.
-- 🔐 **[PQC Readiness Toolkit](https://github.com/ZQM-Computing/pqc-readiness-toolkit)** — NIST / ETSI / CNSA 2.0 post-quantum readiness for Windows fleets.
+- 🔍 **[ZQM Attestation Toolkit](https://github.com/ZQM-Labs/zqm-attestation-toolkit)** — CMS-signed, SHA256-anchored machine-health & AI-agent integrity reports (TPM / BitLocker / DFIR). The core suite.
+- 📚 **[Awesome Windows Attestation](https://github.com/ZQM-Labs/awesome-windows-attestation)** — curated list of the Windows attestation, TPM/CMS-signing, DFIR & post-quantum readiness ecosystem.
+- 🔐 **[PQC Readiness Toolkit](https://github.com/ZQM-Labs/pqc-readiness-toolkit)** — NIST / ETSI / CNSA 2.0 post-quantum readiness for Windows fleets.
 
 ## What we do
 
