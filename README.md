@@ -19,9 +19,9 @@ All tools are **MIT (or Apache-2.0 for PQC) licensed for use**. **Commercial pro
 
 ## Related
 
-- [Attestation Briefs](https://github.com/ZQM-Computing/zqm-attestation-briefs) — buyer-facing methodology & sample outputs
-- [ZQM Shield](https://github.com/ZQM-Computing/zqm-shield) — lightweight Windows endpoint security helpers
-- [ZQM Security Policy](https://github.com/ZQM-Computing/zqm-security-policy) — baseline endpoint posture rules
-- [ZQM Public Tools](https://github.com/ZQM-Computing/zqm-public-tools) — sanitized PowerShell attestation helpers
+- [Attestation Briefs](https://github.com/ZQM-Labs/zqm-attestation-briefs) — buyer-facing methodology & sample outputs
+- [ZQM Shield](https://github.com/ZQM-Labs/zqm-shield) — lightweight Windows endpoint security helpers
+- [ZQM Security Policy](https://github.com/ZQM-Labs/zqm-security-policy) — baseline endpoint posture rules
+- [ZQM Public Tools](https://github.com/ZQM-Labs/zqm-public-tools) — sanitized PowerShell attestation helpers
 
 © 2026 ZQM Computing
