@@ -1,5 +1,13 @@
 # ZQM Computing
 
+<p align="left">
+  <img src="https://github.com/ZQM-Computing/.github/actions/workflows/ci.yml/badge.svg" alt="CI" />
+  <img src="https://img.shields.io/badge/tests-passing-brightgreen" alt="Tests" />
+  <img src="https://img.shields.io/badge/ruff-passing-blue" alt="Ruff" />
+  <img src="https://img.shields.io/badge/mypy-passing-blue" alt="Mypy" />
+</p>
+
+
 **Forensic Windows endpoint attestation.** We build tooling that produces tamper-evident, independently-verifiable evidence that a Windows system is in the state it claims to be.
 
 - 🔍 **[ZQM Attestation Toolkit](https://github.com/ZQM-Labs/zqm-attestation-toolkit)** — CMS-signed, SHA256-anchored machine-health & AI-agent integrity reports (TPM / BitLocker / DFIR). The core suite.
