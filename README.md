@@ -1,27 +1,37 @@
 # ZQM Computing
 
-**Forensic Windows endpoint attestation.** We build tooling that produces tamper-evident, independently-verifiable evidence that a Windows system is in the state it claims to be.
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZQM-Computing&layout=compact&theme=default&hide_border=true&hide=Jupyter+Notebook)
 
-- 🔍 **[ZQM Attestation Toolkit](https://github.com/ZQM-Labs/zqm-attestation-toolkit)** — CMS-signed, SHA256-anchored machine-health & AI-agent integrity reports (TPM / BitLocker / DFIR). The core suite.
-- 📚 **[Awesome Windows Attestation](https://github.com/ZQM-Labs/awesome-windows-attestation)** — curated list of the Windows attestation, TPM/CMS-signing, DFIR & post-quantum readiness ecosystem.
-- 🔐 **[PQC Readiness Toolkit](https://github.com/ZQM-Labs/pqc-readiness-toolkit)** — NIST / ETSI / CNSA 2.0 post-quantum readiness for Windows fleets.
+## About
 
-## What we do
+ZQM Computing delivers 2026 IT services for Florida businesses:
 
-We turn "trust me, the endpoint is clean" into **cryptographic, signed evidence** — detached CMS seals over SHA256-anchored manifests, verified by an independent second method. No SaaS, no cloud lock-in, no telemetry.
+- Managed IT (Volusia / Flagler Atlantic coast)
+- Preemptive cybersecurity and DFIR
+- Cloud cost control (FinOps)
+- AI consulting and agent orchestration
 
-## Licensing & procurement
+All repos are MIT-licensed. See [ZQM-Labs](https://github.com/ZQM-Labs) for research tooling.
 
-All tools are **MIT (or Apache-2.0 for PQC) licensed for use**. **Commercial procurement** (paid attestation deliverables, bespoke sealing, support tiers) is available — see each repo's `LICENSE.md` / `COMMERCIAL.md` and the [Sponsors page](https://github.com/sponsors/ZQM-Computing).
+## Public Repos
 
-- 📧 Contact / procurement: zqmcomputing@gmail.com
-- 💚 Sponsor: https://github.com/sponsors/ZQM-Computing
+| Repo | Language | Description | Topics |
+|------|----------|-------------|--------|
+| [hermes-agent](https://github.com/ZQM-Computing/hermes-agent) | Python | Hermes Agent — CLI AI agent framework | python, ai, agent, cli, llm, automation |
+| [nsgi-ors-pipeline](https://github.com/ZQM-Computing/nsgi-ors-pipeline) | Python | NSGI ORS data pipeline and attestation | python, pipeline, data, security, zqm |
+| [swarm](https://github.com/ZQM-Computing/swarm) | Python | Swarm orchestration and multi-agent coordination | python, swarm, ai, orchestration, zqm |
+| [dotfiles](https://github.com/ZQM-Computing/dotfiles) | Shell | Development environment dotfiles and bootstrap | shell, dotfiles, dev, automation |
+| [zqm-ai-master](https://github.com/ZQM-Computing/zqm-ai-master) | Python | AI master orchestrator and model router | python, ai, orchestration, llm, zqm |
 
-## Related
+## Governance
 
-- [Attestation Briefs](https://github.com/ZQM-Labs/zqm-attestation-briefs) — buyer-facing methodology & sample outputs
-- [ZQM Shield](https://github.com/ZQM-Labs/zqm-shield) — lightweight Windows endpoint security helpers
-- [ZQM Security Policy](https://github.com/ZQM-Labs/zqm-security-policy) — baseline endpoint posture rules
-- [ZQM Public Tools](https://github.com/ZQM-Labs/zqm-public-tools) — sanitized PowerShell attestation helpers
+- **Security Policy**: See [`.github/SECURITY.md`](https://github.com/ZQM-Computing/.github/blob/main/SECURITY.md)
+- **Dependabot**: Active on all public repos
+- **CI/CD**: GitHub Actions on active repos
+- **License**: MIT on all repos
 
-© 2026 ZQM Computing
+## Links
+
+- [ZQM Labs](https://github.com/ZQM-Labs)
+- [ZQM Computing GitHub Pages](https://zqm-computing.github.io/ZQM-Computing/)
+- [ZQM Labs GitHub Pages](https://zqm-labs.github.io/ZQM-Labs/)
